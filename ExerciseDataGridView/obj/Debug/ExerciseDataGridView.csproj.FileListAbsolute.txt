@@ -1,0 +1,13 @@
+C:\Users\ERIK\source\repos\ExerciseDataGridView\ExerciseDataGridView\bin\Debug\ExerciseDataGridView.exe.config
+C:\Users\ERIK\source\repos\ExerciseDataGridView\ExerciseDataGridView\bin\Debug\ExerciseDataGridView.exe
+C:\Users\ERIK\source\repos\ExerciseDataGridView\ExerciseDataGridView\bin\Debug\ExerciseDataGridView.pdb
+C:\Users\ERIK\source\repos\ExerciseDataGridView\ExerciseDataGridView\obj\Debug\ExerciseDataGridView.csprojAssemblyReference.cache
+C:\Users\ERIK\source\repos\ExerciseDataGridView\ExerciseDataGridView\obj\Debug\ExerciseDataGridView.DataGridView.resources
+C:\Users\ERIK\source\repos\ExerciseDataGridView\ExerciseDataGridView\obj\Debug\ExerciseDataGridView.Form1.resources
+C:\Users\ERIK\source\repos\ExerciseDataGridView\ExerciseDataGridView\obj\Debug\ExerciseDataGridView.Form2.resources
+C:\Users\ERIK\source\repos\ExerciseDataGridView\ExerciseDataGridView\obj\Debug\ExerciseDataGridView.Menu.resources
+C:\Users\ERIK\source\repos\ExerciseDataGridView\ExerciseDataGridView\obj\Debug\ExerciseDataGridView.Properties.Resources.resources
+C:\Users\ERIK\source\repos\ExerciseDataGridView\ExerciseDataGridView\obj\Debug\ExerciseDataGridView.csproj.GenerateResource.cache
+C:\Users\ERIK\source\repos\ExerciseDataGridView\ExerciseDataGridView\obj\Debug\ExerciseDataGridView.csproj.CoreCompileInputs.cache
+C:\Users\ERIK\source\repos\ExerciseDataGridView\ExerciseDataGridView\obj\Debug\ExerciseDataGridView.exe
+C:\Users\ERIK\source\repos\ExerciseDataGridView\ExerciseDataGridView\obj\Debug\ExerciseDataGridView.pdb
